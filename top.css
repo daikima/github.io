@@ -26,7 +26,7 @@ main {
 }
 .section-top-image {
   height: 500px;
-  background-image: url("photo/ATCumi.png");
+  background-image: url("photo/ATCumi.jpg");
   background-size: cover;
   background-position: center center;
 }
